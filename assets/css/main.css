@@ -2582,6 +2582,7 @@ section {
   color: #fff;
   background: url("../img/tanki1.jpg") top center no-repeat;
   background-size: cover;
+  background-attachment:fixed;
   font-size: 14px;
   padding: 80px 0 60px 0;
   position: relative;
